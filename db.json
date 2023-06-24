@@ -1427,7 +1427,21 @@
           "manacost": "125 / 130 / 135 / 140",
           "hint": "One of the few Dezun rites used for offensive purposes, the paralytic enchantment often proves useful."
         }
-      ]
+      ],
+      "talent" :[{
+        "_id": {
+          "$oid": "6485f16fa6f3f3a5b3044f6c"
+        },
+        "id": 50,
+        "Tenleft": "+1.75 Mana Regen",
+        "Tenright": "+35 Attack Speed",
+        "Fifteenleft": "+350 Poison Touch Attack Range",
+        "Fifteenright": "+45 Shadow Wave Heal / Damage",
+        "Twentyleft": "+60 Poison Touch DPS",
+        "Twentyright": "+200 Heal On Shallow Grave End",
+        "Twentyfiveleft": "+0.5 Bad Juju Armor Reduction/Increase",
+        "Twentyfiveright": "+40% Poison Touch Slow"
+      }]
     }
   ]
 }

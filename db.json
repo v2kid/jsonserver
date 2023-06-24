@@ -7,7 +7,7 @@
     { "id": 1, "title": "First Post", "content": "Hello, world!" },
     { "id": 2, "title": "Second Post", "content": "Lorem ipsum dolor sit amet." }
   ],
-  "heros" : [
+  "heroes" : [
     {
       "_id": {
         "$oid": "648694161a00992c66d5c330"
@@ -1362,7 +1362,7 @@
       "complexity": 1
     }
   ],
-  "abilities": [
+  "abilities": 
     {
       "_id": {
         "$oid": "6487102a46bd9787c1b0a17c"
@@ -1429,7 +1429,7 @@
         }
       ] 
     }
-  ],
+  ,
   "talent" : [{
     "_id": {
       "$oid": "6485f16fa6f3f3a5b3044f6c"

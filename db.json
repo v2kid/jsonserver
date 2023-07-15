@@ -4,8 +4,22 @@
     { "id": 2, "name": "Jane Smith", "email": "jane@example.com" }
   ],
   "posts": [
-    { "id": 1, "title": "First Post", "content": "Hello, world!" },
-    { "id": 2, "title": "Second Post", "content": "Lorem ipsum dolor sit amet." }
+    {
+      "_id": 3,
+      "title": "khang",
+      "description": "typicode",
+      "publishDate" :"20-10",
+      "featuredImage" :"https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3703047/94658001ed21521413e8dff04f6216197cbe3d33.jpg",
+      "published" : true
+  },
+  {
+    "_id": 1,
+    "title": "khang",
+    "description": "typicode",
+    "publishDate" :"20-10",
+    "featuredImage" :"https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3703047/94658001ed21521413e8dff04f6216197cbe3d33.jpg",
+    "published" : true
+}
   ],
   "heroes" : [
     {
@@ -1430,7 +1444,7 @@
       ] 
     }
   ,
-  "talent" : [{
+  "talent" : {
     "_id": {
       "$oid": "6485f16fa6f3f3a5b3044f6c"
     },
@@ -1443,5 +1457,5 @@
     "Twentyright": "+200 Heal On Shallow Grave End",
     "Twentyfiveleft": "+0.5 Bad Juju Armor Reduction/Increase",
     "Twentyfiveright": "+40% Poison Touch Slow"
-  }]
+  }
 }

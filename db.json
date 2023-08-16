@@ -1465,39 +1465,151 @@
     "https://images.unsplash.com/photo-1521577352947-9bb58764b69a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=986&q=80",
   "title": "PUMA Everyday Hussle",
   "price": 160,
-  "categories": "cloth"
+  "categories": "Cloth"
   },
   {
-    "id" : "asd1e1213",
+    "id" : "asd1e122dc12",
+    "imageUrl":
+    "https://i.pinimg.com/564x/ec/48/7e/ec487ec339cacc808f02b7ec830ab2c7.jpg",
+  "title": "PUMA Everyday Hussle",
+  "price": 160,
+  "categories": "Cloth"
+  },
+  {
+    "id" : "asd1e122dc12",
+    "imageUrl":
+    "https://i.pinimg.com/564x/a4/aa/2c/a4aa2c85968135c39a0c1073f821b7ae.jpg",
+  "title": "PUMA Everyday Hussle",
+  "price": 160,
+  "categories": "Cloth"
+  },
+  {
+    "id" : "asd1e1v22c341",
+    "imageUrl":
+    "https://i.pinimg.com/564x/b3/fc/cb/b3fccb071d976d4e672e4d278cdd9963.jpg",
+  "title": "PUMA Everyday Hussle",
+  "price": 160,
+  "categories": "Cloth"
+  },
+  {
+    "id" : "asd1evjk1213",
     "imageUrl":
     "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
     "title": "PUMA Everyday Hussle",
   "price": 180,
-  "categories": "cloth"
+  "categories": "Cloth"
   },
   {
-    "id" : "asd1e1214",
+    "id" : "asd1e12yti14",
     "imageUrl":
     "https://images.unsplash.com/photo-1556217477-d325251ece38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1020&q=80",
     "title": "PUMA Everyday Hussle",
   "price": 260,
-  "categories": "cloth"
+  "categories": "Cloth"
   },
   {
-    "id" : "asd1e1215",
+    "id" : "asd1e1pnk215",
     "imageUrl":
     "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
     "title": "PUMA Everyday Hussle",
   "price": 160,
-  "categories": "cloth"
+  "categories": "Cloth"
   },
   {
-    "id" : "asd1e1216",
+    "id" : "asd1e123vj16",
     "imageUrl":
     "https://i.pinimg.com/564x/eb/57/86/eb578686972194c8cee33bd3a230fa05.jpg",
     "title": "Adidas ",
   "price": 120,
-  "categories": "shoes"
+  "categories": "Shoes"
+  },
+  {
+    "id" : "asd1e121bd121",
+    "imageUrl":
+    "https://i.pinimg.com/564x/f4/17/91/f41791254509916ec4136614eeefa0e2.jpg",
+    "title": "Adidas ",
+  "price": 120,
+  "categories": "Shoes"
+  },
+  {
+    "id" : "asd1e1215v6",
+    "imageUrl":
+    "https://i.pinimg.com/564x/4c/34/d8/4c34d8516a290c485f92a828d6c44249.jpg",
+    "title": "Adidas ",
+  "price": 120,
+  "categories": "Shoes"
+  },
+  {
+    "id" : "asd1e122315v6",
+    "imageUrl":
+    "https://i.pinimg.com/564x/f4/69/eb/f469eb7972b94d012d48ddc8d4347c56.jpg",
+    "title": "Adidas ",
+  "price": 120,
+  "categories": "Shoes"
+  },
+  {
+    "id" : "asd1e1215v632",
+    "imageUrl":
+    "https://i.pinimg.com/564x/fb/fb/04/fbfb04328cb36c3fadc925f4808b89f4.jpg",
+    "title": "Adidas ",
+  "price": 120,
+  "categories": "Shoes"
+  },
+  {
+    "id" : "asd1e1215v632",
+    "imageUrl":
+    "https://i.pinimg.com/564x/50/34/36/50343632050a542e4d2e98ce5f519d83.jpg",
+    "title": "Adidas ",
+  "price": 120,
+  "categories": "Shoes"
+  },
+  {
+    "id" : "4vt3sdfiyv",
+    "imageUrl":
+    "https://i.pinimg.com/564x/7f/73/b1/7f73b19a1d8e5cd60aaea3768f7d8617.jpg",
+    "title": "Winter coming ",
+  "price": 120,
+  "categories": "Hat"
+  },
+  {
+    "id" : "34g4hdfvgw",
+    "imageUrl":
+    "https://i.pinimg.com/236x/24/04/36/240436be6cb4d11cef87381d3af6b5cf.jpg",
+    "title": "Style new ",
+  "price": 120,
+  "categories": "Hat"
+  },
+  {
+    "id" : "c1123dhdvs",
+    "imageUrl":
+    "https://i.pinimg.com/236x/c1/a8/97/c1a8978e70f8ea36015d6d88b25089f1.jpg",
+    "title": "Old School ",
+  "price": 120,
+  "categories": "Hat"
+  },
+  {
+    "id" : "vsdf235fbf",
+    "imageUrl":
+    "https://i.pinimg.com/236x/e5/b0/07/e5b0074379a764d46230e0afee1f8e81.jpg",
+    "title": "Gumo gumo no",
+  "price": 120,
+  "categories": "Hat"
+  },
+  {
+    "id" : "vsdf235fbf",
+    "imageUrl":
+    "https://i.pinimg.com/236x/df/74/7c/df747c52876ebaf1df42e2dc9f66a141.jpg",
+    "title": "Creepy",
+  "price": 120,
+  "categories": "Hat"
+  },
+  {
+    "id" : "vsdf235fbf",
+    "imageUrl":
+    "https://i.pinimg.com/236x/b0/0e/b8/b00eb832c7d6362de6827fa083226492.jpg",
+    "title": "Black and White",
+  "price": 120,
+  "categories": "Hat"
   }
 ]
   

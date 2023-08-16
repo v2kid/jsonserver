@@ -1457,5 +1457,49 @@
     "Twentyright": "+200 Heal On Shallow Grave End",
     "Twentyfiveleft": "+0.5 Bad Juju Armor Reduction/Increase",
     "Twentyfiveright": "+40% Poison Touch Slow"
+  },
+  "products" : [
+    {
+    "id" : "asd1e1212",
+    "imageUrl":
+    "https://images.unsplash.com/photo-1521577352947-9bb58764b69a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=986&q=80",
+  "title": "PUMA Everyday Hussle",
+  "price": 160,
+  "categories": "cloth"
+  },
+  {
+    "id" : "asd1e1213",
+    "imageUrl":
+    "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+    "title": "PUMA Everyday Hussle",
+  "price": 180,
+  "categories": "cloth"
+  },
+  {
+    "id" : "asd1e1214",
+    "imageUrl":
+    "https://images.unsplash.com/photo-1556217477-d325251ece38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1020&q=80",
+    "title": "PUMA Everyday Hussle",
+  "price": 260,
+  "categories": "cloth"
+  },
+  {
+    "id" : "asd1e1215",
+    "imageUrl":
+    "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+    "title": "PUMA Everyday Hussle",
+  "price": 160,
+  "categories": "cloth"
+  },
+  {
+    "id" : "asd1e1216",
+    "imageUrl":
+    "https://i.pinimg.com/564x/eb/57/86/eb578686972194c8cee33bd3a230fa05.jpg",
+    "title": "Adidas ",
+  "price": 120,
+  "categories": "shoes"
   }
+]
+  
+  
 }

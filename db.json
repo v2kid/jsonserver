@@ -1643,6 +1643,16 @@
   "price": 120,
   "categories": "Jewelry"
   }
+],
+"cart" : [
+  {
+    "id" : "asd1e1212",
+    "imageUrl":
+    "https://images.unsplash.com/photo-1521577352947-9bb58764b69a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=986&q=80",
+  "title": "PUMA Everyday Hussle",
+  "price": 160,
+  "categories": "Cloth"
+  }
 ]
   
   

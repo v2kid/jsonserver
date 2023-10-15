@@ -1649,5 +1649,14 @@
     "id" : "asd1e4368122dc12",
     "imageUrl": "https://i.pinimg.com/564x/ec/48/7e/ec487ec339cacc808f02b7ec830ab2c7.jpg"
   }
+],
+"cart" : [
+  {
+    "id": "asd1e1212",
+    "imageUrl": "https://images.unsplash.com/photo-1521577352947-9bb58764b69a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=986&q=80",
+    "title": "PUMA Everyday Hussle",
+    "price": 160,
+    "categories": "Cloth"
+  }
 ]
 }
